@@ -269,8 +269,6 @@ The project is organized into clear packages:
 - No multi-day history browsing inside the application
 - No external database integration
 
-These limitations are intentional to keep the project focused and readable.
-
 ---
 
 ## Possible Improvements
@@ -279,8 +277,7 @@ These limitations are intentional to keep the project focused and readable.
 2. Multi-day state browsing
 3. Database-backed persistence
 4. Reporting and analytics features
-5. Unit and integration tests
-6. Authentication for staff users
+5. Authentication for staff users
 
 ---
 
@@ -299,3 +296,4 @@ These limitations are intentional to keep the project focused and readable.
 This project was built to demonstrate clean backend design, real-world modeling, and disciplined separation of responsibilities. It emphasizes clarity, correctness, and extensibility over unnecessary complexity.
 
 It is suitable as a foundation for larger systems or as a teaching example for backend fundamentals.
+
