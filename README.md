@@ -293,7 +293,8 @@ The project is organized into clear packages:
 
 ## Author Notes
 
-This project was built to demonstrate clean backend design, real-world modeling, and disciplined separation of responsibilities. It emphasizes clarity, correctness, and extensibility over unnecessary complexity.
+This project was built to demonstrate clean backend design, real-world modeling, and disciplined separation of responsibilities. It emphasizes clarity, correctness, and extensibility.
 
 It is suitable as a foundation for larger systems or as a teaching example for backend fundamentals.
+
 
